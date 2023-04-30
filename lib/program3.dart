@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 void main() {
   runApp( MaterialApp(
-    home:  Program_3() ,
+    home:  Image() ,
   ),);
 }
-class Program_3 extends StatelessWidget {
-  const Program_3({Key? key}) : super(key: key);
+class Image extends StatelessWidget {
+  const Image({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
